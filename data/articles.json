@@ -1,0 +1,42 @@
+
+  [
+  {
+    "id": 1,
+    "slug": "city-marathon-thousands-running",
+    "title": "City Marathon Sees Thousands Running for a Cause",
+    "summary": "Thousands of citizens came together this weekend to participate in the annual charity marathon. The event saw record-breaking attendance and contributed significantly to health and community welfare programs.",
+    "content": "<p>The annual charity marathon witnessed an overwhelming turnout this year as thousands of participants ran in support of health and education initiatives. Organized by the city's sports and welfare department, the event aimed to raise funds for underprivileged children and public health awareness.</p><p>Organizers reported a record number of registrations, with citizens from various age groups participating enthusiastically. Volunteers and local officials also extended support, ensuring smooth execution of the event.</p><p>The marathon concluded with a felicitation ceremony honoring the top runners and contributors. The funds raised will be directed towards children's education programs and community healthcare drives.</p>",
+    "image": "/images/marathon.jpg",
+    "publishedAt": "2025-11-22",
+    "author": "Aparna",
+    "category": "Sports",
+    "views": 1200,
+    "isTrending": true
+  },
+  {
+    "id": 2,
+    "slug": "monsoon-rains-relief-north-india",
+    "title": "Monsoon Rains Bring Relief to Farmers in North India",
+    "summary": "After weeks of dry spell, refreshing monsoon showers have returned to North India, bringing relief to farmers and boosting agricultural productivity across several districts.",
+    "content": "<p>After a prolonged dry spell, the arrival of steady monsoon rains has brought much-needed relief to farmers across North India. Agricultural regions in Punjab, Haryana, Uttar Pradesh, and Uttarakhand recorded widespread rainfall, significantly improving soil moisture for major crops.</p><p>Experts say the rainfall will positively impact paddy, sugarcane, and vegetable cultivation, which had earlier suffered due to delayed rains. Farmers expressed optimism as irrigation costs are expected to drop with natural rainfall improving field conditions.</p><p>Weather officials predict consistent rainfall over the next few days, which will help stabilize groundwater levels and support sowing activities for the upcoming farming cycle.</p>",
+    "image": "/images/monsoon.jpg",
+    "publishedAt": "2025-11-20",
+    "author": "Ravi Singh",
+    "category": "National",
+    "views": 980,
+    "isTrending": true
+  },
+  {
+    "id": 3,
+    "slug": "ev-startup-raises-series-a",
+    "title": "Tech Startup Raises Series A to Build Low-Cost EV Batteries",
+    "summary": "A rising EV technology startup has secured a major Series A funding round to develop affordable and high-performance batteries aimed at accelerating India's electric mobility transition.",
+    "content": "<p>In an important milestone for India's growing electric vehicle ecosystem, a promising tech startup has raised a significant Series A investment to develop low-cost and fast-charging EV batteries. The startup aims to revolutionize clean mobility with locally produced, high-efficiency battery modules.</p><p>The funding will be used to expand research labs, hire engineers, and set up a pilot manufacturing facility. The company plans to introduce battery packs that offer longer range, improved safety features, and better compatibility with affordable EV models.</p><p>Industry analysts believe this development could boost India’s EV adoption rate and strengthen the domestic battery supply chain, reducing dependence on expensive imports.</p>",
+    "image": "/images/ev-battery.jpg",
+    "publishedAt": "2025-11-18",
+    "author": "Ananya Mehta",
+    "category": "Business",
+    "views": 450,
+    "isTrending": false
+  }
+]
